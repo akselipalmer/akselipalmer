@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <div style="width: 100%;">
+<div style="width: 100%; max-height: 200px">
         <img src="https://www.notion.so/images/page-cover/gradients_3.png" />
     </div>
 <!--
