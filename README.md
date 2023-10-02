@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<div style="width: 100%; max-height: 200px;">
-        <img src="https://www.notion.so/images/page-cover/gradients_3.png" />
+<div style="width: 100%;">
+        <img src="https://www.notion.so/images/page-cover/gradients_3.png" style="max-height: 200px" />
     </div>
 <!--
 **akselipalmer/akselipalmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
