@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<div style="width: 100%;">
-        <img src="https://www.notion.so/images/page-cover/gradients_3.png" style="height: 20%" />
-    </div>
 <!--
 **akselipalmer/akselipalmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
