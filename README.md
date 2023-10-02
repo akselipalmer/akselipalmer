@@ -1,4 +1,13 @@
 ### Hi there 👋
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,firebase,css,html,js,ts,github,git,mui,tailwind,vite,vscode&perline=6" />
+  </a>
+</p>
+<p align="center">
+<img alig src="https://github-profile-trophy.vercel.app/?username=akselipalmer&margin-w=8&column=4&title=MultipleLang,Organizations,Repositories,Commits,PullRequest,Issues&theme=darkhub&no-frame=true" alt="github trophies" />
+</p>
 <!--
 **akselipalmer/akselipalmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
