@@ -17,7 +17,7 @@
   </a>
 </p>
 
-## 🏆 My GitHub Trophy Collection
+<!-- ## 🏆 My GitHub Trophy Collection
 
 <p align="center">
 <img alig src="https://github-profile-trophy.vercel.app/?username=akselipalmer&margin-w=8&column=4&title=MultipleLang,Organizations,Repositories,Commits,PullRequest,Issues&theme=flat&no-frame=true" alt="github trophies" />
@@ -27,3 +27,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=akselipalmer&show_icons=true&count_private=true&hide=issues,contribs&theme=graywhite" alt="GitHub stats" /></p>
 <p align="center"><img src="https://streak-stats.demolab.com?user=akselipalmer&theme=graywhite&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Adrian's GitHub streak stats" /></p>
+-->
