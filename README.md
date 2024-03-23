@@ -1,7 +1,5 @@
 # Hi, I'm Akseli! 👋
-
-## 🚀 About Me
-- I am a Software Engineer with experience working at an early stage startup. I have experience building/shipping/maintaining a production application using languages like React and TypeScript.
+- Frontend Developer with experience leading: Building / Shipping / Maintaining a production SaaS application for a startup. (React, TypeScript)
 
 <!--
 ## 🔭 I’m currently working on ...
