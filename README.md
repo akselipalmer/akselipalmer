@@ -1,5 +1,5 @@
 # Hi, I'm Akseli! 👋
-- React Developer with experience leading: Building / Shipping / Maintaining a production SaaS application for an early stage startup. 
+- I'm a React Developer with experience leading: Building / Shipping / Maintaining a production SaaS application for an early stage startup. 
 
 <!--
 ## 🔭 I’m currently working on ...
