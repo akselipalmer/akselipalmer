@@ -1,4 +1,7 @@
+![front end bannar image](https://github.com/user-attachments/assets/7bc2744b-b6e8-4d48-91ad-fdf52b241cff)
+
 # 💫 About Me:
+
 🔭 I’m currently working on web based collection management system that lives in the cloud. <br>It give museums the tools they need to streamline museum curation.<br>You can check it out here [Collectivo](https://historicdata.net/collectivo)<br><br>⚡ I specialize in React, Node.js, TypeScript, Firebase, and Jest. <br><br>🌱 I’m currently learning GCP (Google Cloud Platform), Unity, C#.
 
 
