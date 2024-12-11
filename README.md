@@ -2,8 +2,14 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on web based collection management system that lives in the cloud. <br>It give museums the tools they need to streamline museum curation.<br>You can check it out here [Collectivo](https://historicdata.net/collectivo)<br><br>⚡ I specialize in React, Node.js, TypeScript, Firebase, and Jest. <br><br>🌱 I’m currently learning GCP (Google Cloud Platform), Unity, C#.
+🔭 I am a frontend developer specialized in React, JavaScript, TypeScript, Next.js and Material UI. <br>
+⚡ I've also used Node.js, Vitest/Jest, HTML5, CSS3, Git, NoSQL, Redux, Firebase, and Tailwind.<br>
+🌱 I am learning GCP, Rest APIs, SQL, Cypress.<br>
+💫 To see examples of my work, please visit my Socials below ⬇ <br>
 
+👷‍♂️ I’m currently working on web based collection management system that lives in the cloud. <br>
+&nbsp;&nbsp;&nbsp;&nbsp; It give museums the tools they need to streamline museum curation.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; You can check it out here [Collectivo](https://historicdata.net/collectivo)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akselipalmer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akselicodes/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@akselicodes?lang=en) 
