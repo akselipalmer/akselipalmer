@@ -1,9 +1,9 @@
-![front end bannar image](https://github.com/user-attachments/assets/7bc2744b-b6e8-4d48-91ad-fdf52b241cff)
+![Full Stack Dev](https://github.com/user-attachments/assets/abc6a162-c117-48dd-b237-7fc6b1c34668)
 
 # 💫 About Me:
 
-🔭 I am a frontend developer specialized in React, JavaScript, TypeScript, Next.js and Material UI. <br>
-⚡ I've also used Node.js, Vitest/Jest, HTML5, CSS3, Git, NoSQL, Redux, Firebase, and Tailwind.<br>
+
+🔭 I am a full stack developer specialized in React, JavaScript, TypeScript, Next.js, Node.js, Vitest/Jest, HTML5, CSS3, Git, NoSQL, Redux, Firebase, Material UI, and Tailwind.<br>
 🌱 I am learning GCP, Rest APIs, SQL, Cypress.<br>
 💫 To see examples of my work, please visit my Socials below ⬇ <br>
 
