@@ -1,6 +1,6 @@
-![Full Stack Dev](https://github.com/user-attachments/assets/745f7ecc-b264-45c3-ab7d-06d1ba7a6828)
+![Full Stack Dev](https://github.com/user-attachments/assets/22ade042-f3e8-45dd-b326-6624a4046e43)
 
-I am a full-stack developer specializing in React, TypeScript, Node.js, and Firebase.  
+Web Developer | Helping mission-driven startups build clean, scalable apps | React · Firebase · Node.js
 
 I’m currently working on a collection management system for museums.  
 Check it out: [Collectivo](https://historicdata.net/collectivo)  
