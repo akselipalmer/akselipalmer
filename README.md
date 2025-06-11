@@ -1,11 +1,13 @@
 ![Full Stack Dev](https://github.com/user-attachments/assets/22ade042-f3e8-45dd-b326-6624a4046e43)
 
-# Hi, I'm Akseli Palmer 👋
+# Hi, I'm Akseli Palmer 👋  
+📍 Richmond, VA | 📧 akseli@toddsden.com | 📱 (804) 822-1066 | [LinkedIn](https://www.linkedin.com/in/akselipalmer) | 🌐 [Portfolio Website](https://www.akselicodes.com/)
 
 🚀 Richmond-based web developer helping **mission-driven teams** build clean, scalable web applications.  
 🌱 Passionate about sustainability, rewilding, and solving real-world problems through thoughtful code.
 
 ---
+
 
 ## 🧰 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
