@@ -3,7 +3,7 @@
 # Hi, I'm Akseli Palmer 👋  
 📍 Greenville, SC | 📧 akseli@toddsden.com | 📱 (804) 822-1066 | 💼 [LinkedIn](https://www.linkedin.com/in/akselipalmer) | 🌐 [Portfolio Website](https://www.akselicodes.com/)
 
-🚀 Richmond-based web developer helping **mission-driven teams** build clean, scalable web applications.  
+🚀 Greenville-based web developer helping **mission-driven teams** build clean, scalable web applications.  
 🌱 Passionate about sustainability, rewilding, and solving real-world problems through thoughtful code.
 
 ---
