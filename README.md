@@ -51,6 +51,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/akselipalmer)  
 - 🌐 [Portfolio Website](https://www.akselicodes.com/)
 - 📫 akseli@toddsden.com
+- 📞 (804) 822-1066
 
 I’m open to freelance, full-time, or collaborative roles—especially if your work is making the world better. Whether it’s behind the screen or boots on the ground, I’m ready.
 
