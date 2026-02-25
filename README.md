@@ -1,58 +1,83 @@
-![Full Stack Dev](https://github.com/user-attachments/assets/22ade042-f3e8-45dd-b326-6624a4046e43)
+<img width="1584" height="396" alt="nouskit bannar" src="https://github.com/user-attachments/assets/f3be2251-22e2-49b0-818a-5b63f3b17358" />
 
-# Hi, I'm Akseli Palmer 👋  
-📍 Richmond, VA | 📧 akseli@toddsden.com | 📱 (804) 822-1066 | 💼 [LinkedIn](https://www.linkedin.com/in/akselipalmer) | 🌐 [Portfolio Website](https://www.akselicodes.com/)
+# Hey, I'm Akseli 👋
 
-🚀 Richmond-based web developer helping **mission-driven teams** build clean, scalable web applications.  
-🌱 Passionate about sustainability, rewilding, and solving real-world problems through thoughtful code.
+**Senior Developer building [NousKit](https://nouskit.com) — the free, no-code psychology research platform for students and researchers.**
 
----
-
-
-## 🧰 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind-38b2ac?style=for-the-badge&logo=tailwind-css)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+Full-stack dev · Cybersecurity · No code, no per-participant fees.
 
 ---
 
-## 💼 What I Do
-- Build full-stack web apps using **React, Firebase, and Node.js**
-- Architect clean, component-based frontends and cloud-native backends
-- Design intuitive user experiences for teams in sustainability, museum curation, and small business
-- Create fast MVPs, custom dashboards, form builders, and automation tools
+## About Me
+
+I'm a Senior Developer building NousKit, an all-in-one platform for psychology research.
+
+The idea started simply. My sister is a psychology student. She came to me one day and asked if I could help her build a study for class — not because she lacked the skills, but because the tools that could actually handle what she needed were completely out of her price range. So I built it for her. She loved it.
+
+That got me thinking: why are the best research tools only available to labs with enterprise budgets? And why do the free alternatives still expect you to learn a scripting language before you can run a basic study?
+
+## The Problem
+
+Right now, the landscape looks like this:
+
+- The **easy, intuitive platforms** charge per participant or require institutional licenses.
+- The **free options** expect you to write code.
+- Everyone else is **stitching together four or five disconnected tools** that were never designed to work together.
+
+## What NousKit Does
+
+**NousKit fills the gap.**
+
+- 🆓 **Free for students and unfunded researchers** — with generous limits designed around real student research.
+- 🧩 **Truly no-code** — a visual drag-and-drop interface you can learn in minutes.
+- 🔬 **All-in-one** — design, recruit, collect, analyze, and export without leaving the platform.
+
+No trials. No per-participant fees. Paid plans are available for labs, departments, and institutions that need higher capacity, team management, and dedicated support.
+
+## Experience
+
+### Senior Developer — [NousKit](https://nouskit.com)
+*Feb 2025 – Present · Remote*
+
+Leading the full-stack development of NousKit, a web-based research platform for behavioral scientists and researchers to design, deploy, and manage interactive studies at scale. Architecting the platform end-to-end — from a visual drag-and-drop study builder supporting surveys, reaction-time tasks, and experimental controls, through to participant data collection, real-time session management, and structured data export.
+
+**Stack:** React · TypeScript · React Flow · Zustand · Python · FastAPI · SQLAlchemy · PostgreSQL · Pandas · Azure (Static Web Apps, Functions, AD B2C, Blob Storage, SignalR)
 
 ---
 
-## 🔧 Featured Projects
+### Senior Software Engineer — Historic Data
+*Mar 2022 – Sep 2025 · 3 yrs 7 mos · Remote*
 
-### 📚 Collectivo – Collection Management System  
-> A cloud-based app for museums and curators to manage data, reports, and collections.
-- 🔹 Custom form builder and viewer  
-- 🔹 Recurring reports with scheduling  
-- 🔹 Role-based permissions and multitenancy  
-- 🔹 Built with React, Firebase (Auth, Firestore, Cloud Functions, Storage)
+Built a cloud-based collection management system for museums and nonprofits using React, Firebase, and Node.js. Implemented customizable forms, recurring data reports, permission levels, and tenant onboarding. Designed clean UIs with React Router, Material UI, and Cypress for testing. Integrated Google Cloud Functions, Firestore, Storage, and Auth for secure backend services. Prioritized scalability, clean code, and real-time collaboration.
 
-### 🧾 Form Builder  
-> A dynamic form generator and data viewer built for flexible data collection.
-- 🔹 Create and manage custom forms  
-- 🔹 Store and view responses  
-- 🔹 Firebase backend + clean React UI
-
-> 👉 Check out more projects in my [Repositories](https://github.com/akselipalmer?tab=repositories)
+**Stack:** React · Node.js · Firebase · Google Cloud · Material UI · Cypress
 
 ---
 
-## 🤝 Let’s Connect
+I also conduct **security code reviews and audits** for production applications. I care about building tools that are secure, reliable, and accessible to the people who need them most.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/akselipalmer)  
-- 🌐 [Portfolio Website](https://www.akselicodes.com/)
-- 📫 akseli@toddsden.com
-- 📞 (804) 822-1066
+## Skills & Technologies
 
-I’m open to freelance, full-time, or collaborative roles—especially if your work is making the world better. Whether it’s behind the screen or boots on the ground, I’m ready.
+**Frontend:** React · TypeScript · JavaScript · Next.js · HTML5 · CSS · Tailwind CSS · Material UI · React Router · Redux · Zustand · Vite
 
----
+**Backend:** Python · FastAPI · SQLAlchemy · Node.js · REST APIs · OAuth · JSON
+
+**Data & Databases:** PostgreSQL · SQL · Firebase · Cloud Firestore · NoSQL · Pandas · NumPy
+
+**Cloud & Infrastructure:** Microsoft Azure (Functions, B2C, OpenAI, Blob Storage) · Google Cloud Platform · Git · CI/CD · Jira
+
+**Cybersecurity:** Cryptography · IAM · Multi-Factor Authentication · Data Security · Hardening · Malware Protection
+
+**Testing:** Jest · Vitest · Playwright · Cypress
+
+## Certifications
+
+- 🔐 **Introduction to Cybersecurity Essentials** — IBM (Dec 2025)
+- 💻 **Introduction to Software Engineering** — IBM (Dec 2025)
+
+## Let's Connect
+
+If you're a psychology researcher, grad student, or professor — I'd love to hear about what's broken in your current workflow. I'm building NousKit in the open and your feedback shapes what this becomes.
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akselipalmer/)
+- 🌐 [NousKit](https://nouskit.com)
