@@ -45,7 +45,7 @@ Leading the full-stack development of NousKit, a web-based research platform for
 
 ---
 
-### Senior Software Engineer — Historic Data
+### Senior Software Engineer — [Historic Data](https://historicdata.net/collectivo)
 *Mar 2022 – Sep 2025 · 3 yrs 7 mos · Remote*
 
 Built a cloud-based collection management system for museums and nonprofits using React, Firebase, and Node.js. Implemented customizable forms, recurring data reports, permission levels, and tenant onboarding. Designed clean UIs with React Router, Material UI, and Cypress for testing. Integrated Google Cloud Functions, Firestore, Storage, and Auth for secure backend services. Prioritized scalability, clean code, and real-time collaboration.
